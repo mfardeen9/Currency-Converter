@@ -20,7 +20,7 @@ https://github.com/mfardeen9/Currency-Converter/assets/31559901/034029db-8ec2-4e
 Getting Started
 
 Clone the Repository:
-git clone https://github.com/your-username/currency-converter.git
+git clone https://github.com/mfardeen9/currency-converter.git
 cd currency-converter
 
 Install Dependencies:
