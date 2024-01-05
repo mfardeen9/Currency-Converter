@@ -5,9 +5,9 @@ This Currency Converter is a simple and versatile tool designed to convert curre
 
 Features
 
-User-Friendly Interface: The application offers an intuitive and easy-to-use interface, making currency conversions accessible to users of all levels.
-Real-Time Exchange Rates: Stay up-to-date with the latest exchange rates, ensuring accurate and reliable conversions.
-Multi-Currency Support: Convert between a wide range of currencies, including major and minor ones, to meet diverse user needs.
+1. User-Friendly Interface: The application offers an intuitive and easy-to-use interface, making currency conversions accessible to users of all levels.
+2. Real-Time Exchange Rates: Stay up-to-date with the latest exchange rates, ensuring accurate and reliable conversions.
+3. Multi-Currency Support: Convert between a wide range of currencies, including major and minor ones, to meet diverse user needs.
 
 Photo
 
@@ -17,13 +17,13 @@ Video Demo
 
 https://github.com/mfardeen9/Currency-Converter/assets/31559901/034029db-8ec2-4e4e-bbd5-78aa059107f6
 
-Getting Started
+##Getting Started
 
 Clone the Repository:
 git clone https://github.com/mfardeen9/currency-converter.git
 cd currency-converter
 
-Install Dependencies:
+##Install Dependencies:
 npm install
 
 Run the Application:
@@ -32,11 +32,11 @@ npm start
 Open in Browser:
 Open your web browser and navigate to http://localhost:3000 to use the Currency Converter.
 
-Technologies Used
-React
-JavaScript (ES6+)
+##Technologies Used
+React,
+JavaScript (ES6+),
 HTML5
-CSS3
+CSS3,
 Exchange Rate API 
 
 
